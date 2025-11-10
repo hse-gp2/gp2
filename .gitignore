@@ -27,8 +27,8 @@ ENV/
 *.ipynb_checkpoints/
 notebooks/
 *.ipynb
-data/
-*.csv
+# data/ - данные проекта включены в репозиторий
+# *.csv - CSV файлы включены в репозиторий
 *.xlsx
 *.json
 *.parquet
